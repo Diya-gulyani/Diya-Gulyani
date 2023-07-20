@@ -60,6 +60,6 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-b349-be490b3a00ff.mp4" alt="Snake animation" />
+<img src="./assets/sanke.svg" alt="Snake animation" />
 
 ###
