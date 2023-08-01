@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Some Awesome Stuff.
+- 🌱 I’m currently learning new technologies and expanding my skills.
+- 👯 I’m looking to collaborate on  interesting projects with like-minded individuals.
+- 🤔 I’m looking for help with improving my code efficiency and optimization
+- 💬 Ask me about anything related to programming, technology, or general inquiries.
+- 😄 Pronouns: She/Her.
+- ⚡ Fun fact: ⚡ Fun fact: I am fluent in three different programming languages!
+
 
 <h2 align="left">Hi 👋! My name is Diya and I'm a Full Stack Developer, from India</h2>
 
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
+🔥 My Stats :
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Diya-gulyani&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
