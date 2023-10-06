@@ -1,4 +1,7 @@
-### Hi there 👋
+
+  
+  
+  ### Hi there 👋
 
 <!--
 **Diya-gulyani/Diya-Gulyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -68,5 +71,14 @@ Here are some ideas to get you started:
 <br clear="both">
 
 <img src="./assets/sanke.svg" alt="Snake animation" />
+
+
+  
+   
+   
+   
+   <div align="center">
+  <img src="https://profile-counter.glitch.me/diya-gulyani/count.svg?"  />
+</div>      
 
 ###
