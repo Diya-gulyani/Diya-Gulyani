@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on  interesting projects with like-minded individuals.
 - 🤔 I’m looking for help with improving my code efficiency and optimization
 - 💬 Ask me about anything related to programming, technology, or general inquiries.
-- 😄 Pronouns: She/Her.
+- 😄 Pronouns: She/Her.Nikita
 - ⚡ Fun fact: ⚡ Fun fact: I am fluent in three different programming languages!
 
 
