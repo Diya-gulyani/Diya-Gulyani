@@ -75,7 +75,8 @@ Here are some ideas to get you started:
 
   
    
-   
+   <h2 align="left">🔥 Profile Counter :</h2>
+
    
    <div align="center">
   <img src="https://profile-counter.glitch.me/diya-gulyani/count.svg?"  />
