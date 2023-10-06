@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
   
    
-   <h2 align="left">🔥 Profile Counter :</h2>
+   <h2 align="left"> Profile Counter 🔥 :</h2>
 
    
    <div align="center">
